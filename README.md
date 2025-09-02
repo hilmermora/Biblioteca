@@ -1,2 +1,2 @@
-# BookTrack – Seu Catálogo de Livros
-O objetivo do aplicativo é oferecer uma solução prática para organização pessoal de livros, promovendo a interação do usuário com o banco de dados através de operações de cadastro (Create), leitura (Read), atualização (Update) e exclusão (Delete) – seguindo o padrão CRUD.
+# Meu lembrete
+Meu Lembrete é um aplicativo desktop simples de gerenciamento de tarefas, desenvolvido com Java (Swing) para a interface gráfica e PostgreSQL para armazenamento dos dados. Com uma única tela, o app permite ao usuário adicionar, visualizar e remover lembretes de forma rápida e prática.
